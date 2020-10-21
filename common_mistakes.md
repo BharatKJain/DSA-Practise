@@ -8,3 +8,6 @@
     4. Number Theory
     5. Graph Theory
 4. Competitive Programmers Handbook [link](https://cses.fi/book/book.pdf)
+
+
+NOTES TAKEN FROM WILLIAM LIN

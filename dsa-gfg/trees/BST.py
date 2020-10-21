@@ -70,7 +70,7 @@ def inorder_with_level(root,level):
 		print(f"node: {root.val} level:{level}")
 		inorder_with_level(root.right,level+1)
 
-def delete(root,key):
+# def delete(root,key):
 
 	
 # Driver program to test the above functions 

@@ -23,16 +23,17 @@ References:
 1. To find algorithms: https://cp-algorithms.com/
 2. For practicising competitive programming: https://a2oj.com/ladders
 
+## Books to read as a programmer:
+1. Designing Data-Intensive Applications
+2. 
+3. 
 
-Books to read as a programmer:
-1. 
-
-Tech things to know about:
+## Tech things to know about:
 1. Redis
 2. Serverless apps in AWS
 3. 
 
-Concepts to learn:
+## Concepts to learn:
 1. Garbage Collection:(https://www.educative.io/courses/a-quick-primer-on-garbage-collection-algorithms/jR8ml)
     1. Reference Counting 
     2. Mark Sweep Collection

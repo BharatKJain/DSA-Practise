@@ -49,6 +49,6 @@ from operator import mul
 ############################################################################################
 
 # print all combination of substring in string:
-string = "CHECKING"
-print([string[element[0]:element[1]]
-       for element in list(combinations(range(len(string)+1), 2))])
+# string = "CHECKING"
+# print([string[element[0]:element[1]]
+#        for element in list(combinations(range(len(string)+1), 2))])
