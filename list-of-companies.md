@@ -7,5 +7,6 @@
 5. Juspay
 6. Facebook,Apple,Amazon,Netflix,Google(FAANG)
 7. Gojek
-8. FAANG
-9. ZS Associates
+8. ZS Associates
+9. Uber
+10. 

@@ -1,0 +1,41 @@
+Sab kuch geeksforgeeks se padhna hai
+
+OOPS Topics:
+1. What is OOPS?
+2. Abstraction, Encapsulation, Polymorphism....concepts of OOPS....in detail...and difference between them
+3. Inheritance and types
+4. Constructors and destructors
+5. method-> Overloading and Overriding
+6. Diamond Problem in multiple inheritance
+7. Factory and Singleton Design pattern
+8. Friends 
+
+
+
+Cognizant OOPs Interview Questions
+1) What are virtual Functions?
+In object-oriented programming, in languages such as C++, and Object Pascal, a virtual function or virtual method is an inheritable and overrideable function or method for which dynamic dispatch facilitated. This concept is an essential part of the (runtime) polymorphism portion of object-oriented programming (OOP).
+
+2) What is overloading in OOPs?
+Overloading is a process used to avoid redundant code where the same method name used multiple times but with a different set of parameters. The actual method that gets called during runtime is resolved at compile time, thus avoiding runtime errors.
+
+3) What is overriding?
+In any object-oriented programming, Overriding is a process that allows a child class or subclass to provide a specific implementation of functions that is already provided by one of its super-classes or parent classes.
+
+4) What is polymorphism?
+By using the ability of polymorphism an object can take on multiple types. The frequent use of polymorphism occurs when a parent class refers to an object of the child class. The Java object that can pass more than one IS-A test is polymorphic.
+
+5) What is data abstraction?
+In oops, abstraction is one of three main principles (along with encapsulation and inheritance). Through the process of abstraction, a programmer hides all but the relevant data about an object to reduce complexity and increase efficiency.
+
+6) What is encapsulation?
+Encapsulation is one of the primary concepts in object-oriented programming. It describes the idea of combining data in a single class and methods that work on that data, e.g., a class which is a blueprint in java. This concept is also often used to preserve the internal state, of an object from the outside.
+
+7) What is Inheritance in java?
+In object-oriented programming, inheritance helps new objects to take on the properties of old objects. A class that uses for inheritance is called a base class or superclass. A class that inherits data from a base class is called a subclass or derived class
+
+8) What is the constructor?
+A constructor is a method which is used to initialize a newly created object and is called just after when memory allocated to the object. It can be used to implement the objects to desired values or default values at the time of object creation.
+
+9) What is the destructor?
+A destructor used when the initialized object is destructing it called automatically during the destruction of an object. It helps in recovering the heap space and remove files.

@@ -3,7 +3,12 @@ Important link:
 https://www.geeksforgeeks.org/python-itertools/
 """
 
-from itertools import combinations, permutations, combinations_with_replacement, accumulate
+from itertools import (
+    combinations,
+    permutations,
+    combinations_with_replacement,
+    accumulate,
+)
 from operator import mul
 
 #########################################################################################

@@ -28,25 +28,26 @@
 
 
 # mycode:
-def algo(l:list) -> int:
-    flag=0
-    max_sum=0
-    consecutive_sum=0
-    array=[]
-    max_array=[]
+def algo(l: list) -> int:
+    flag = 0
+    max_sum = 0
+    consecutive_sum = 0
+    array = []
+    max_array = []
     for element in l:
         print(element)
         print(f"consecutive:{consecutive_sum}")
-        consecutive_sum+=element
+        consecutive_sum += element
         array.append(element)
         if max_sum < consecutive_sum:
-            max_sum=consecutive_sum
-            max_array=array.copy()
+            max_sum = consecutive_sum
+            max_array = array.copy()
         if consecutive_sum < 0:
-            consecutive_sum=0
-            array=[]
-    return {"sum":max_sum,"array":max_array}
+            consecutive_sum = 0
+            array = []
+    return {"sum": max_sum, "array": max_array}
+
 
 # a = [-13, -3, -25, -20, -3, -16, -23, -12, -5, -22, -15, -4, -7]
-a=[-2, -3, 4, -1, -2, 1, 5, -3,-5]
+a = [-2, -3, 4, -1, -2, 1, 5, -3, -5]
 print(algo(a))
